@@ -27,6 +27,11 @@ body {
     height: 450px;
 }
 
+.image-bg-size {
+	height: 300px;
+	width: 300px;
+}
+
 .img-center {
 	margin: 0 auto;
 }
